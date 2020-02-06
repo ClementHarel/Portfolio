@@ -145,78 +145,7 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
-      <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </StyledArchiveLink>
-
-      <StyledGrid>
-        <TransitionGroup className="projects">
-          {projectsToShow &&
-            projectsToShow.map(({ node }, i) => {
-              const { frontmatter, html } = node;
-              const { github, external, title, tech } = frontmatter;
-              return (
-                <CSSTransition
-                  key={i}
-                  classNames="fadeup"
-                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 300 : 300}
-                  exit={false}>
-                  <StyledProject
-                    key={i}
-                    ref={el => (revealProjects.current[i] = el)}
-                    tabIndex="0"
-                    style={{
-                      transitionDelay: `${i >= GRID_LIMIT ? (i - GRID_LIMIT) * 100 : 0}ms`,
-                    }}>
-                    <StyledProjectInner>
-                      <header>
-                        <StyledProjectHeader>
-                          <StyledFolder>
-                            <IconFolder />
-                          </StyledFolder>
-                          <StyledProjectLinks>
-                            {github && (
-                              <StyledIconLink
-                                href={github}
-                                target="_blank"
-                                rel="nofollow noopener noreferrer"
-                                aria-label="GitHub Link">
-                                <IconGitHub />
-                              </StyledIconLink>
-                            )}
-                            {external && (
-                              <StyledIconLink
-                                href={external}
-                                target="_blank"
-                                rel="nofollow noopener noreferrer"
-                                aria-label="External Link">
-                                <IconExternal />
-                              </StyledIconLink>
-                            )}
-                          </StyledProjectLinks>
-                        </StyledProjectHeader>
-                        <StyledProjectName>{title}</StyledProjectName>
-                        <StyledProjectDescription dangerouslySetInnerHTML={{ __html: html }} />
-                      </header>
-                      <footer>
-                        <StyledTechList>
-                          {tech.map((tech, i) => (
-                            <li key={i}>{tech}</li>
-                          ))}
-                        </StyledTechList>
-                      </footer>
-                    </StyledProjectInner>
-                  </StyledProject>
-                </CSSTransition>
-              );
-            })}
-        </TransitionGroup>
-      </StyledGrid>
-
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
+    
     </StyledContainer>
   );
 };
