@@ -143,7 +143,6 @@ const Projects = ({ data }) => {
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
 
-  /*
   return (
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
@@ -220,7 +219,6 @@ const Projects = ({ data }) => {
       </StyledMoreButton>
     </StyledContainer>
   );
-  */
 };
 
 Projects.propTypes = {
