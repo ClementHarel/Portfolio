@@ -1,6 +1,6 @@
 ---
 date: '2019-07-01'
-title: 'Développeur Java J2EE SQL ( Stage )'
+title: 'Développeur Java J2EE SQL ( Stage )  '
 company: 'Gemalto - Thalès'
 location: 'Gemenos - France'
 range: 'Début juillet - Fin décembre 2019'

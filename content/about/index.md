@@ -1,5 +1,5 @@
 ---
-title: 'About Me'
+title: 'A propos de moi'
 avatar: './me.jpg'
 skills:
   - C#
