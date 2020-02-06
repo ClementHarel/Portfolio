@@ -14,6 +14,7 @@ import About from './sections/about';
 import Jobs from './sections/jobs';
 import Featured from './sections/featured';
 import Contact from './sections/contact';
+import Projects from '/sections/Projects'
 
 export {
   Head,
@@ -27,6 +28,7 @@ export {
   Hero,
   About,
   Jobs,
+  Projects,
   Featured,
   Contact,
   Footer,
