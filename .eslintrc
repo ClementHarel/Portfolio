@@ -1,3 +1,3 @@
 {
-  "extends": "@nuscout"
+  "extends": "@upstatement/eslint-config/react"
 }
