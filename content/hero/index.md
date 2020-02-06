@@ -1,8 +1,9 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
-contactText: 'Get In Touch'
+title: 'Bonjour, mon nom est'
+name: 'Clément Harel'
+subtitle: 'Développeur Informatique'
+contactText: 'Me contacter'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Ayant eu une souris dans la main avant d'avoir appris à marcher, le développement informatique n'était que la suite logique des choses.
+Du mobile au web en passant par les logiciels de bureau, je sais m'investir pleinement pour mener à bien vos projets.
