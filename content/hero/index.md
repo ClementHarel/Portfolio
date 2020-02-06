@@ -5,6 +5,6 @@ subtitle: 'Développeur Informatique'
 contactText: 'Me contacter'
 ---
 
-Passionné depuis toujours par les nouvelles technologies, le développement informatique n'était que pour moi la suite logique des choses.
+Ayant eu une souris dans la main avant d'avoir appris à marcher, le développement informatique n'était que la suite logique des choses.
 
-Du mobile au web en passant par la gestion de projet, je sais m'investir pleinement pour réaliser mes objectifs.
+Du mobile au web en passant par les logiciels de bureau, je sais m'investir pleinement pour mener à bien vos projets.
