@@ -1,16 +1,17 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Image Compressor'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/ClementHarel/ImageCompressor'
+external: 'https://github.com/ClementHarel/ImageCompressor'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Haskell
+  - Programmation Fonctionnelle
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Algorithme de compression d'image utilisation l'algorithme k-means. Cet algorithme a 3 étapes :
+
+- Lire l'image et extraite la couleur de chaque pixel.
+- Clusteriser ces couleurs et remplacer chaque couleur du cluster par la couleur majoritaire du cluster.
+- Indexer les couleurs majoritaire et créer l'image compressée.

@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Imgur clone'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/ClementHarel/ImgurClone'
+external: 'https://github.com/ClementHarel/ImgurClone'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - C#
+  - .NET
+  - Xamarin
+  - Imgur API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Un clone mobile de la célèbre application Imgur faite en C# avec Xamarin. Les utilisateurs peuvent lier leur vrai profil Imgur puis peuvent naviguer sur la frontpage du site, ajouter des favorites et rechercher des sujets spécifiques.

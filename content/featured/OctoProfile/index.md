@@ -6,9 +6,9 @@ github: 'https://github.com/ClementHarel/AFunRpg'
 external: 'https://github.com/ClementHarel/AFunRpg'
 tech:
   - C
-  - CSFML
+  - (C)SFML
   - GIMP
 showInProjects: true
 ---
 
-Court jeu RPG d'une petite demie heure entièrement fait en C
+Court jeu RPG d'une petite demie heure entièrement fait entièrement en C.

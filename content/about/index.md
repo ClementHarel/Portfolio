@@ -20,4 +20,4 @@ Je suis un développeur sur la region d'Aix-Marseille aimant donner vie aux proj
 Pendant ma scolarité à [Epitech](https://www.epitech.eu/fr/), j'ai eu l'occasion de travailler sur une grande variété de projets informatique.
 
 
-Voici quelque unes des technologies que j'utilise :
+Voici quelques unes des technologies que j'utilise :
