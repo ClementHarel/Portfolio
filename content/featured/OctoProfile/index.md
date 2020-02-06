@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Court jeu RPG d'une petite demie heure entièrement fait entièrement en C.
+Court jeu RPG d'une petite demie heure entièrement écrit en C.
