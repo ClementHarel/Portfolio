@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'A Fun RPG'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/ClementHarel/AFunRpg'
+external: 'https://github.com/ClementHarel/AFunRpg'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - C
+  - CSFML
+  - GIMP
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Court jeu RPG d'une petite demie heure entièrement fait en C
