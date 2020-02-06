@@ -242,23 +242,7 @@ class Nav extends Component {
           <body className={menuOpen ? 'blur' : ''} />
         </Helmet>
         <StyledNav>
-          <TransitionGroup component={null}>
-            {isMounted && (
-              <CSSTransition classNames={fadeClass} timeout={timeout}>
-                <StyledLogo tabindex="-1">
-                  {isHome ? (
-                    <a href="/" aria-label="home">
-                      <IconLogo />
-                    </a>
-                  ) : (
-                    <Link to="/" aria-label="home">
-                      <IconLogo />
-                    </Link>
-                  )}
-                </StyledLogo>
-              </CSSTransition>
-            )}
-          </TransitionGroup>
+   
 
           <TransitionGroup component={null}>
             {isMounted && (
