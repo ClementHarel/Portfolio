@@ -51,14 +51,14 @@ const Contact = ({ data }) => {
 
   return (
     <StyledContainer id="contact" ref={revealContainer}>
-      <StyledHeading>What&apos;s Next?</StyledHeading>
+      <StyledHeading>Et maintenant ?</StyledHeading>
 
       <StyledTitle>{title}</StyledTitle>
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
       <StyledEmailLink href={`mailto:${email}`} target="_blank" rel="nofollow noopener noreferrer">
-        Say Hello
+        Me contacter
       </StyledEmailLink>
     </StyledContainer>
   );

@@ -13,7 +13,6 @@ import Hero from './sections/hero';
 import About from './sections/about';
 import Jobs from './sections/jobs';
 import Featured from './sections/featured';
-import Projects from './sections/projects';
 import Contact from './sections/contact';
 
 export {
@@ -29,7 +28,6 @@ export {
   About,
   Jobs,
   Featured,
-  Projects,
   Contact,
   Footer,
 };
