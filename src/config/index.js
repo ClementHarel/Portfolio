@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Clément Harel',
   location: 'Marseille',
-  email: 'clement.harel@epitech.eu',
+  email: 'mail@clementharel.com',
   github: 'https://github.com/ClementHarel',
   twitterHandle: '@bchiang7',
   socialMedia: [
