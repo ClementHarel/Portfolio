@@ -2,5 +2,5 @@
 title: 'Me contacter'
 ---
 
-Toujours ouvert à la discussion, ma boîte mail est à votre disposition. Que ce soit pour me présenter une opportunité ou juste dire bonjour, je ferais de mon mieux pour vous répondre.
+Je suis actuellement en recherche d'un CDI en gestion de projet informatique ou en développement informatique alors n'hésitez pas à rentrez en contact avec moi si vous pensez que votre entreprise comporte l'un de ces besoins.
 
