@@ -1,10 +1,10 @@
 ---
 title: 'Bonjour, mon nom est'
 name: 'Clément Harel'
-subtitle: 'Développeur Informatique'
+subtitle: 'Développeur Data'
 contactText: 'Me contacter'
 ---
 
 Passionné depuis toujours par les nouvelles technologies, le développement informatique n'était pour moi que la suite logique des choses.
 
-Du mobile au web, en passant par la gestion de vos projets, je sais m'investir pleinement pour mener à bien mes objectifs.
+Aujourd'hui, je démarre ma carrière dans le monde de la Data en me spécialisant dans les technologies de BI ( Business Intelligence).
