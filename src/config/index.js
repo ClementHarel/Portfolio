@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Clément Harel | Développeur Informatique',
   siteDescription:
-    'Bonjour, je suis Clément Harel. Développeur Informatique basé sur la région d Aix-Marseille, je sais m investir pleinement pour mener à bien vos projets',
+    'Bonjour, je suis Clément Harel. Développeur Data',
   siteKeywords: 
-  'Clément Harel, software engineer, front-end engineer, web developer, javascript, aix, marseille, c#, .net, sql, java, j2ee, devexpress',
-  siteUrl: 'https://bclementharel.com',
+  'Clément Harel, data, BI, business_intelligence, décisionnel, Qliksense, Qlik, Tableau, PowerBI, software engineer, front-end engineer, web developer, javascript, aix, marseille, c#, .net, sql, java, j2ee, devexpress',
+  siteUrl: 'https://clementharel.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
