@@ -1,4 +1,5 @@
 ---
+date: '2020-09-01'
 title: 'Analyste en Informatique Décisionnelle'
 company: 'Groupe Blachère'
 location: 'Châteaurenard - France'
