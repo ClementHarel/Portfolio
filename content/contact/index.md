@@ -2,5 +2,5 @@
 title: 'Me contacter'
 ---
 
-Je suis actuellement en recherche d'un CDI en gestion de projet informatique ou en développement informatique alors n'hésitez pas à rentrez en contact avec moi si vous pensez que votre entreprise comporte l'un de ces besoins.
+Actuellement en mission, je ne recherche pas activement de nouvelle opportunités. Je suis cependant toujours ouvert à la discussion et cherche toujours à agrandir mon réseau. N'hésitez donc pas à rentrez en contact avec moi si votre entreprise ou quelqu'un que vous connaissez recherche un profil comme le mien. Merci !
 
