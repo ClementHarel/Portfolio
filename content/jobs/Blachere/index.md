@@ -1,3 +1,4 @@
+---
 title: 'Analyste en Informatique Décisionnelle'
 company: 'Groupe Blachère'
 location: 'Châteaurenard - France'
