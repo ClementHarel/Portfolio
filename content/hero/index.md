@@ -1,7 +1,7 @@
 ---
 title: 'Bonjour, mon nom est'
 name: 'Clément Harel'
-subtitle: 'Développeur Data'
+subtitle: 'Ingénieur Business Intelligence'
 contactText: 'Me contacter'
 ---
 
